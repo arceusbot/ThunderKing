@@ -18,7 +18,7 @@ OR
 • 1maverick1 for welcome mutes.
    
 • KORA BOT 
-# Notice No new features will be added to this project anymore, however occasional bug fixes will be released.
+# Notice new features will be added to this project anymore, however occasional bug fixes will be released.
 
 
 
