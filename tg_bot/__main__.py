@@ -26,13 +26,13 @@ You can find my list of available commands with :
 👉 /help.
 """
 
-BOT_IMAGE = "https://telegra.ph/file/2fbf54ecf569496431507.jpg"
+BOT_IMAGE = "https://telegra.ph/file/d0475ca4573e2b3d17a82.jpg"
 
 HELP_STRINGS = """
 Hey there! My name is *{}*.
 I'm a modular group management bot with a few fun extras! Have a look at the following for an idea of some of \
 the things I can help you with.
-If you have any questions on how to use me, head over to @KoraSupport
+If you have any questions on how to use me, head over to @shirobotsupport
 
 *Main* commands available:
  - /start: start the bot
@@ -159,7 +159,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 ),
             )
     else:
-        update.effective_message.reply_text("Yo, why'd you summon me?")
+        update.effective_message.reply_text("Yo, I know you summon me Please Wait")
 
 
 # for test purposes
