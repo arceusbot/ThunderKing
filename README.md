@@ -13,12 +13,30 @@ OR
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kushal-modi/KoraBot.git)
 
 ## Credits
+
+• [Developer BOY](https://t.me/Developer_boy_sd_owner) The Owner Of This Fantastic Bot.
+
+  ![[Developer BOY](https://telegra.ph/file/66455ecc1018b1ac294ef.jpg)
+
+
+
+
 • [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more.
-• [M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆ X](https://t.me/Itz_Mr_Hillarious)
 
 
 
-# Notice No new features will be added to this project anymore, however occasional bug fixes will be released.
+
+
+
+• [M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆](https://t.me/Itz_Mr_Hillarious) The Supporter
+ 
+
+
+  ![[M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆](https://telegra.ph/file/7da0574d9616021010b43.jpg)
+
+
+
+# Notice new features will be added to this project anymore, however occasional bug fixes will be released.
 
 
 
