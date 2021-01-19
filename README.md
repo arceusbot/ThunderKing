@@ -1,8 +1,10 @@
 
-# Kora
+# Thunder King
+
+
 A modular telegram Python bot running on python3 with an sqlalchemy database.
 
-Originally a Marie fork, Kora was created for personal use by [this person](https://t.me/Itz_kora). Feel free to add it to your groups though!
+Thunder King was created for personal use by [this person](https://t.me/Developer_boy_sd_owner). Feel free to add it to your groups though!
 
 Can be found on telegram as [Kora](https://t.me/Koragroup_bot).
 
@@ -10,7 +12,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kushal-modi/KoraBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](hhttps://github.com/developer-boy-sdowner/shiroBot.git)
 
 ## Credits
 
@@ -23,6 +25,8 @@ OR
 
 • [SaitamaRobot](https://github.com/AnimeKaizoku/SaitamaRobot) for evaluator and more.
 
+
+  ![SaitamaRobot](https://telegra.ph/file/43ebf51e1a7d904b22f56.jpg)
 
 
 
