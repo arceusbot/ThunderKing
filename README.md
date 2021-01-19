@@ -20,4 +20,4 @@ OR
 Credits - [M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆ X](https://t.me/Itz_Mr_Hillarious)
 
 
-![Koro-Sensei](https://wallpapercave.com/wp/wp5223109.jpg) 
+ [Koro-Sensei]
