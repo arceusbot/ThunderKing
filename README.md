@@ -16,7 +16,7 @@ OR
 
 • [Developer BOY](https://t.me/Developer_boy_sd_owner) The Owner Of This Fantastic Bot.
 
-  ![[Developer BOY](https://telegra.ph/file/66455ecc1018b1ac294ef.jpg)
+  ![Developer BOY](https://telegra.ph/file/66455ecc1018b1ac294ef.jpg)
 
 
 
@@ -32,7 +32,7 @@ OR
  
 
 
-  ![[M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆](https://telegra.ph/file/7da0574d9616021010b43.jpg)
+  ![M͆R͆ H͆I͆L͆L͆A͆R͆I͆O͆U͆S͆](https://telegra.ph/file/7da0574d9616021010b43.jpg)
 
 
 
