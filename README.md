@@ -12,7 +12,7 @@ If you want to create your own bot, you can basically follow the steps given [he
 
 OR
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](hhttps://github.com/developer-boy-sdowner/shiroBot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/developer-boy-sdowner/ThunderKing.git)
 
 ## Credits
 
