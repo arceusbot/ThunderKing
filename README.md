@@ -6,7 +6,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 Thunder King was created for personal use by [this person](https://t.me/Developer_boy_sd_owner). Feel free to add it to your groups though!
 
-Can be found on telegram as [Kora](https://t.me/Koragroup_bot).
+Can be found on telegram as [Thunderking](https://t.me/thunderkingsupport).
 
 If you want to create your own bot, you can basically follow the steps given [here](https://github.com/PaulSonOfLars/tgbot/blob/master/README.md)
 
